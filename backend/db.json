@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0",
+      "email": "najwasyilahazid@gmail.com"
+    },
+    {
+      "id": "329e8d92-cb2e-4c58-8a25-7d59fbe7cf77",
+      "email": "najwasyilahazid@gmail"
+    }
+  ],
+  "todos": [
+    {
+      "id": "4286e9e6-8a52-4dee-8f24-414c8aa29fdd",
+      "title": "basuh baju",
+      "completed": true,
+      "priority": "Low",
+      "userId": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0",
+      "time": "10:00 AM",
+      "date": "25 Sun"
+    },
+    {
+      "id": "3d8a2c40-617a-4587-9a25-8d8455d0c40e",
+      "title": "buang sampah",
+      "completed": true,
+      "priority": "High",
+      "userId": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0",
+      "time": "10:16 PM",
+      "date": "25 Sun"
+    },
+    {
+      "id": "771922fd-df27-4dc2-8ba4-808fcdadc196",
+      "title": "buat assignment",
+      "completed": false,
+      "priority": "Medium",
+      "userId": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0",
+      "time": "11:53 AM",
+      "date": "25 Sun"
+    },
+    {
+      "id": "016f2bc5-1cec-4a7f-ae42-704942c7f605",
+      "title": "pasang cadar",
+      "completed": false,
+      "priority": "Low",
+      "time": "11:35 AM",
+      "date": "24 Sat",
+      "userId": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0"
+    },
+    {
+      "id": "44996561-a693-44b2-8c69-3cdb5fbfe900",
+      "title": "test",
+      "completed": false,
+      "priority": "Low",
+      "time": "12:46 PM",
+      "date": "24 Sat",
+      "userId": "2bd103ea-c3ce-4d96-a76d-9f7c94e8d0d0"
+    }
+  ]
+}
