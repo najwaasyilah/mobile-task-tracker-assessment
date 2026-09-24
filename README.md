@@ -80,7 +80,7 @@ For a simple assessment app like this, it comfortably sits in the AWS Free Tier:
 ---
 
 ## Time Taken
-- **Backend (GraphQL/Node)**: ~1 hour
-- **Web App (Next.js/Tailwind)**: ~1.5 hours 
-- **Mobile App (React Native/Expo)**: ~2.5 hours
-- **Total**: ~5 hours
+- **Backend (GraphQL/Node)**: 1 hour
+- **Web App (Next.js/Tailwind)**: 1.5 hours 
+- **Mobile App (React Native/Expo)**: 2.5 hours
+- **Total**: 5 hours
